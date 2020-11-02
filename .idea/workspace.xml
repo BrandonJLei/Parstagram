@@ -31,9 +31,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="resourceFile" />
         <option value="layoutResourceFile" />
         <option value="Class" />
-        <option value="resourceFile" />
       </list>
     </option>
   </component>
@@ -121,18 +121,18 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1604303365666">
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1604313086532">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1604303365666" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1604313086532" />
     <state x="540" y="275" key="AndroidCreateResourceDirectoryDialog" timestamp="1603530271089">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="540" y="275" key="AndroidCreateResourceDirectoryDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1603530271089" />
-    <state x="540" y="275" key="AndroidCreateResourceFileDialog" timestamp="1604301728775">
+    <state x="540" y="275" key="AndroidCreateResourceFileDialog" timestamp="1604311243068">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="540" y="275" key="AndroidCreateResourceFileDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1604301728775" />
+    <state x="540" y="275" key="AndroidCreateResourceFileDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1604311243068" />
     <state width="1877" height="184" key="GridCell.Tab.0.bottom" timestamp="1604301617519">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -149,10 +149,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="184" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1604301617519" />
-    <state x="669" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1604301455001">
+    <state x="669" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1604310917953">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="669" y="264" key="com.intellij.ide.util.TipDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1604301455001" />
+    <state x="669" y="264" key="com.intellij.ide.util.TipDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1604310917953" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1604303008077">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
